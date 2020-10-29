@@ -25,5 +25,9 @@ include device/xiaomi/sm7125-common/BoardConfigCommon.mk
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := excalibur
 
+# Init
+TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_atoll
+TARGET_RECOVERY_DEVICE_MODULES := libinit_atoll
+
 # OTA assert
 TARGET_OTA_ASSERT_DEVICE := excalibur
