@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_excalibur.mk
+    $(LOCAL_DIR)/octavi_excalibur.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_excalibur-user \
-    aosp_excalibur-userdebug \
-    aosp_excalibur-eng
+    octavi_excalibur-user \
+    octavi_excalibur-userdebug \
+    octavi_excalibur-eng

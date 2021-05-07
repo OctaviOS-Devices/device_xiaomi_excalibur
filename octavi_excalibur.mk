@@ -15,12 +15,16 @@
 #
 
 $(call inherit-product, device/xiaomi/excalibur/device.mk)
-$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
+$(call inherit-product, vendor/octavi/config/common_full_phone.mk)
 
-PRODUCT_NAME := aosp_excalibur
+PRODUCT_NAME := octavi_excalibur
 PRODUCT_DEVICE := excalibur
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := SM7125
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+# Octavi Official & Maintainer
+OCTAVI_BUILD_TYPE=Official
+OCTAVI_DEVICE_MAINTAINER := mrjarvis698
