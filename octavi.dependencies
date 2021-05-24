@@ -2,7 +2,7 @@
   {
     "repository": "MrJarvis698/device_xiaomi_sm7125-common",
     "target_path": "device/xiaomi/sm7125-common",
-    "branch": "11",
+    "branch": "11_octavi",
     "remote": "github"
   },
   {
