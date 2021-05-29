@@ -30,24 +30,6 @@
     "remote": "github"
   },
   {
-    "repository": "MrJarvis698/android_hardware_qcom_audio",
-    "target_path": "hardware/qcom-caf/sm8150/audio",
-    "branch": "arrow-11.0-caf-sm8150",
-    "remote": "github"
-  },
-  {
-    "repository": "MrJarvis698/platform_hardware_qcom_display",
-    "target_path": "hardware/qcom-caf/sm8150/display",
-    "branch": "11-caf-sm8150-octavi",
-    "remote": "github"
-  },
-  {
-    "repository": "MrJarvis698/android_hardware_qcom_media",
-    "target_path": "hardware/qcom-caf/sm8150/media",
-    "branch": "arrow-11.0-caf-sm8150",
-    "remote": "github"
-  },
-  {
     "repository": "MrJarvis698/packages_apps_XiaomiDoze",
     "target_path": "packages/apps/XiaomiDoze",
     "branch": "11",
